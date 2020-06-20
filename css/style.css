@@ -8,7 +8,7 @@
 
 * {
   margin: 0;
-  padding: 0px;
+  padding: 0;
   font-family: 'Lato', sans-serif;
 }
 
@@ -103,15 +103,6 @@ html, body {
   padding-bottom: 80px;
 }
 
-.clear {
-  clear: both;
-  display: block;
-  font-size: 0;
-  height: 0;
-  line-height: 0;
-  width: 100%;
-}
-
 ::-moz-selection {
   color: #fff;
   text-shadow: none;
@@ -198,17 +189,17 @@ a:hover, a:focus {
 
 /* Violet Section */
 
-#r {
+#violet_section {
   background: #7451eb;
   color: white;
 }
 
-#r h1 {
+#violet_section h1 {
   font-size: 65px;
   font-weight: 700;
 }
 
-#r p {
+#violet_section p {
   color: white;
   font-size: 28px;
   margin-top: 80px;
@@ -216,18 +207,18 @@ a:hover, a:focus {
 
 /* White Section */
 
-#b {
+#white_section {
   background: #ffffff;
   padding-bottom: 50px;
   color: #003668;
 }
 
-#b h1 {
+#white_section h1 {
   font-size: 60px;
   font-weight: 700;
 }
 
-#b p {
+#white_section p {
   color: #003668;
   font-size: 21px;
 }
@@ -240,16 +231,16 @@ a:hover, a:focus {
 
 /* FOOTER Section */
 
-#f {
+#footer {
   background: #003668;
 }
 
-#f h1 {
+#footer h1 {
   color: white;
   font-weight: bold;
 }
 
-#f p {
+#footer p {
   color: white;
   font-size: 21px;
 }
