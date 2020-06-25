@@ -76,7 +76,8 @@
           </div>
           <p>
             Après avoir terminé mon diplome de Développeur Web Junior chez Openclassrooms, j'ai poursuivi en Développement d'Applications Java
-          <br>
+          </p>
+          <p>
             Je suis passionné par le développement backend. Je travaille énormement avec des méthodes telles que le Domain-Driven Design, les concepts SOLIDs et la gestion de projet en agile
           </p>
         </div>
