@@ -69,16 +69,20 @@
           </p>
           <div class="liste">
             <ul>
-              <li>Un mini jeu en ligne</li>
-              <li>Une application de réservation de tickets de cinéma en ligne</li>
-              <li>Une application SaSS de gestion de projet pour les entreprises</li>
+              <li>Une application de gestion agricole, dénommée AgriTech avec Swing</li>
+              <li>Une application de fidélisation clientèle avec Spring boot</li>
+              <li>Une application de gestion de personnel avec Java EE</li>
+              <li>Une application mobile de valorisation du tourisme avec Java pour Android</li>
             </ul>
           </div>
           <p>
-            Après avoir terminé mon diplome de Développeur Web Junior chez Openclassrooms, j'ai poursuivi en Développement d'Applications Java
+            Après avoir terminé mon diplome de Brevet de Technicien Supérieur option Informatique Développeur d'Applications,
+            j'ai effectué une formation en tant que développeur Java, Web et Mobile chez Objis-CI dans le cadre du programme 10000 Codeurs.
+            A l'issu de cela, j'ai suivi des cours et obtenu des certifications de chez Openclassrooms avec le mode Premium Solo offert par l'Etat de Cote d'Ivoire.
+            J'ai egalement obtenu la certification Scrum Master de chez CertiProf
           </p>
           <p>
-            Je suis passionné par le développement backend. Je travaille énormement avec des méthodes telles que le Domain-Driven Design, les concepts SOLIDs et la gestion de projet en agile
+            Je suis passionné par le développement backend. Je travaille énormement avec des méthodes telles que le Domain-Driven Design, le DEVOPS, les concepts SOLIDs et la gestion de projet en agile
           </p>
         </div>
         <!--/col-md-6 -->
